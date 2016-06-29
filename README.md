@@ -1,3 +1,19 @@
+#This repository is the  answer to Exploratory Data analysis week 1 home work.
+by Jun Wang  njekin@gmail.com  
+6-29-2016.
+
+To run the analysis code, place the data file(.txt) in the upper level folder of /ExDat_Plotting1. 
+
+
+
+
+
+
+
+
+
+
+
 ## Introduction
 
 This assignment uses data from
